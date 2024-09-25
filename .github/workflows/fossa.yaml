@@ -3,7 +3,7 @@ name: Run Fossa Scan
 on:
   push:
     branches:
-      - master
+      - v0.15.0-rancher109-patch
     # For manual scans.
     workflow_dispatch:
 

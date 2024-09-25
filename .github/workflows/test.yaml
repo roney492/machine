@@ -3,7 +3,7 @@ name: Run Tests
 on:
   push:
     branches:
-      - master
+      - v0.15.0-rancher109-patch
   pull_request:
 
 jobs:
